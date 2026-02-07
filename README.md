@@ -63,6 +63,6 @@ Le projet a été planifié et suivi selon des pratiques inspirées de la métho
 | Jour 5 | Documentation et préparation de la présentation |
 
 ### Liens
-- Tableau Jira : [https://haitlachgar-1770109659851.atlassian.net/jira/software/projects/KAN/boards/1]
+- Tableau Jira : [Lien vers le projet Jira](https://haitlachgar-1770109659851.atlassian.net/jira/software/projects/KAN/boards/1)
 
-- Documentation Confluence : [Lien vers l'espace Confluence]
+- Documentation Confluence : [Lien vers l'espace Confluence](https://haitlachgar.atlassian.net/wiki/spaces/ADTU/pages/9633975/Documentation)
