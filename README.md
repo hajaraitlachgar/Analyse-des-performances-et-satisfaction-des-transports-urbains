@@ -54,7 +54,6 @@ Le projet a été planifié et suivi selon des pratiques inspirées de la métho
 ### Chronologie du projet
 
 | Jour | Tâches |
-
 |---|---|
 | Jour 1 | Collecte des données (RDF, CSV, Excel) et configuration du projet |
 | Jour 2 | ETL avec Python (nettoyage, transformation, standardisation) |
